@@ -3,3 +3,4 @@ REM up commit comment
 git add .
 git commit -m "%*"
 git push
+git ftp push
